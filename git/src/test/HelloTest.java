@@ -7,5 +7,8 @@ public class HelloTest {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+
+        //hello
+        System.out.println("测试更新");
     }
 }
